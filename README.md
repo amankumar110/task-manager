@@ -3,4 +3,4 @@ An android based task manager app that uses android's room database to store and
 
 # Preview
 
-<img src="preview.gif" width="400" height="500" />
+<img src="preview.gif" width="330" height="500">
